@@ -14,19 +14,9 @@ The INPT Virtual Guide is a Retrieval-Augmented Generation (RAG) system designed
   - `sentence-transformers`: For document embeddings (all-MiniLM-L6-v2)
 - **Environment**: Jupyter Notebook
 - **Vector Store**: Pinecone (serverless, AWS us-east-1)
+- **LLM**: Gemini-1.5-flash
 - **Embedding Model**: Sentence-BERT (all-MiniLM-L6-v2, 384 dimensions)
 
-## Project Structure
-
-```
-inpt-rag-assistant/
-├── Data/
-│   └── inpt.txt              # Source text file with INPT information
-├── inpt_documents.csv        # Processed knowledge base (optional)
-├── inpt_rag_assistant.ipynb  # Main Jupyter Notebook
-├── README.md                 # Project documentation
-└── .env                      # Environment variables (e.g., PINECONE_API_KEY)
-```
 
 ## Setup Instructions
 
