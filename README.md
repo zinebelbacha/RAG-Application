@@ -31,7 +31,7 @@ The INPT Virtual Guide is a Retrieval-Augmented Generation (RAG) system designed
 1. **Clone the Repository** (if using Git):
    ```bash
    git clone https://github.com/zinebelbacha/RAG-Application.git
-   cd inpt-rag-assistant
+   cd RAG-application
    ```
 
 2. **Create a Virtual Environment**:
