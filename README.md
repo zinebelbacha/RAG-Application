@@ -55,7 +55,6 @@ The INPT Virtual Guide is a Retrieval-Augmented Generation (RAG) system designed
 
 5. **Prepare the Knowledge Base**:
    - The current knowledge base is in `Data/inpt.txt`, containing INPT details (e.g., programs, admissions, clubs).
-   - To expand, scrape additional content from `inpt.ac.ma` using BeautifulSoup (see notebook for example).
 
 ### Running the Notebook
 1. **Start Jupyter Notebook**:
